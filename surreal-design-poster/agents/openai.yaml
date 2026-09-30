@@ -1,0 +1,8 @@
+interface:
+  display_name: "蓝天悬浮解构风格海报"
+  short_description: "制作木框蓝天、漂浮产品与编辑排版的超现实设计展海报"
+  brand_color: "#8BAFD0"
+  default_prompt: "使用 $surreal-design-poster，把我提供的产品图制作成超现实当代设计展海报。"
+
+policy:
+  allow_implicit_invocation: true

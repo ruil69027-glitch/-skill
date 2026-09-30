@@ -1,0 +1,8 @@
+interface:
+  display_name: "便利贴解构风格海报skill"
+  short_description: "将产品图制作成便利贴解构风格的社交媒体海报"
+  brand_color: "#B24C63"
+  default_prompt: "使用 $sticky-note-poster，把我提供的产品图片制作成便利贴解构风格海报。"
+
+policy:
+  allow_implicit_invocation: true
